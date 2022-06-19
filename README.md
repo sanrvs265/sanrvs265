@@ -1,5 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/f3/6a/70/f36a70d1524a8345a610b8857b2abc64.gif)](https://github.com/sanrvs265.io)
 <h1 align="center">Hi 👋, I'm Santhosh R</h1>
+<h3 align="center">Learning Data analytics</h3>
 <img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanrvs265&label=Profile%20views&color=0e75b6&style=flat" alt="sanrvs265" /> </p>
 
